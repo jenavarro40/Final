@@ -1,0 +1,20 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.hour li{
+    display: inline;
+    text-decoration: none;
+    font-size: 30px; 
+    word-spacing:20px ;
+}
+
+.date li{
+    display: inline;
+    text-decoration: none; 
+ 
+}
