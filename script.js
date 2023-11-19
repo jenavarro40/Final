@@ -27,13 +27,13 @@ function dateperyear()
     var seg=now.getSeconds();
     switch (day_weeks)
     {
-        case 2: day_week="Monday";break;
-        case 3: day_week="Tuesday";break;
-        case 4: day_week="Wednesday";break;
-        case 5: day_week="Thursday";break;
-        case 6: day_week="Friday";break;
-        case 7: day_week="Saturday";break;
-        case 1: day_week="Sunday";break;
+        case 1: day_week="Monday";break;
+        case 2: day_week="Tuesday";break;
+        case 3: day_week="Wednesday";break;
+        case 4: day_week="Thursday";break;
+        case 5: day_week="Friday";break;
+        case 6: day_week="Saturday";break;
+        case 7: day_week="Sunday";break;
         
     }
 
